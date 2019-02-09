@@ -4,6 +4,8 @@ Learned from [Jason Yu](http://twitter.com/ycmjason)，this is for documenting m
 
 [codesandbox](https://codesandbox.io/s/434xr5mr84)
 
+[blog](https://blog.techbridge.cc/2019/02/04/vdom-from-scratch/)
+
 Ref:
 1. https://github.com/ycmjason-talks/2018-11-21-manc-web-meetup-4
 2. https://dev.to/ycmjason/building-a-simple-virtual-dom-from-scratch-3d05#mount-node-target
