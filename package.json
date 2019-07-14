@@ -15,6 +15,6 @@
   "author": "Arvin",
   "license": "MIT",
   "dependencies": {
-    "parcel-bundler": "^1.11.0"
+    "parcel-bundler": "^1.12.3"
   }
 }
